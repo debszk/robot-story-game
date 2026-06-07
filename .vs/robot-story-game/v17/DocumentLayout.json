@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deborah\\Documents\\GUI\\robot-story-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{753B8AF7-8BDB-4E66-B5C9-2BDAADC7B610}|robot-story-game.vcxproj|C:\\Users\\Deborah\\Documents\\GUI\\robot-story-game\\robot-story-game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{753B8AF7-8BDB-4E66-B5C9-2BDAADC7B610}|robot-story-game.vcxproj|solutionrelative:robot-story-game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "robot-story-game.cpp",
+              "DocumentMoniker": "C:\\Users\\Deborah\\Documents\\GUI\\robot-story-game\\robot-story-game.cpp",
+              "RelativeDocumentMoniker": "robot-story-game.cpp",
+              "ToolTip": "C:\\Users\\Deborah\\Documents\\GUI\\robot-story-game\\robot-story-game.cpp",
+              "RelativeToolTip": "robot-story-game.cpp",
+              "ViewState": "AgIAAHMIAAAAAAAAAAAYwHcIAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-16T16:00:44.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
